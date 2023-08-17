@@ -1,6 +1,5 @@
 # dockertodo
-A sample docker based application. The application is the todo.
-
+A sample docker based application. The application is for managing todo.
 
 # docker best practice
 Ex - nodejs
